@@ -1,2 +1,2 @@
 # hello-world
-Solo otro repositorio!
+Aquí se desarrolla el resto del ejercicio
